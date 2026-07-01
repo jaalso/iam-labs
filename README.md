@@ -1,15 +1,19 @@
-## 🔐 [IAM Labs](https://github.com/jaalso/iam-labs) <sup><sub>← click to open</sub></sup>
-> Identity & Access Management · OIDC · JWT · Keycloak · OAuth 2.0
+>  🔐  Identity Access Management (IAM)
+
+Identity & Access Management · OIDC · JWT · Keycloak · OAuth 2.0
+
+---
+
+## 📁 Labs
 
 | # | Lab | Tools | Status |
 |---|---|---|---|
 | 01 | Keycloak - OIDC Authorization Code Flow | Keycloak · Docker · curl · JWT | ✅ Complete |
 
-# 01 🔐 Keycloak Identity Broker — OIDC Authentication Lab
-
-> **Category:** Identity & Access Management (IAM) · Security Engineering
-> **Environment:** Kali Linux · Docker · Keycloak 26.6.3
-> **Focus:** OpenID Connect (OIDC) Authorization Code flow · JWT analysis · identity brokering concepts
+### 01 · 🔐 Keycloak Identity Broker — OIDC Authentication Lab
+**Category:** Identity & Access Management (IAM) · Security Engineering
+<br>**Environment:** Kali Linux · Docker · Keycloak 26.6.3
+<br>**Focus:** OpenID Connect (OIDC) Authorization Code flow · JWT analysis · identity brokering concepts
 
 ---
 
